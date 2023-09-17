@@ -1,7 +1,9 @@
 site_name: Bhukamatha User Guide
 site_url: https://example.com/
+edit_uri: edit/main/docs/
 
-repo_url: https://github.com/surveyorstories/bhukamatha
+
+repo_url: https://github.com/lokeshmetta/bhudocs
 repo_name: Surveyorstories/bhukamatha
 copyright: Copyright © 2023 Surveyor Stories.
 
